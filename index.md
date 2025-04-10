@@ -3,53 +3,92 @@ layout: default
 title: Mateusz Lisiecki
 ---
 
-# 👋 Welcome
+# 👋 Hi, I'm Mateusz Lisiecki
 
-Hi, I'm **Mateusz Lisiecki**, a data analyst with a life sciences background and a passion for solving problems through data.
+Data Analyst | Life Sciences Background | Data-Driven Storyteller
 
-## 💼 Projects
-
-### 📊 Enhancing NHS Budgeting Efficiency
-![NHS Analysis](NHS.png){: width="600" }
-
-- Analyzed NHS GP appointment data for trends.
-- Explored seasonality, booking delay vs. attendance.
-- Compared in-person vs virtual modes.
-
-**Tech:** Python, Pandas, Matplotlib [📂 View Notebook](#)
+![Mateusz Lisiecki](My_picture.png)
 
 ---
 
-### 📈 Market Insights with SQL & Tableau
-![Market Analysis](2MArket.png){: width="600" }
+## 📚 About Me
 
-- Transaction volume analysis by product/region.
-- Built Tableau dashboards for visual storytelling.
+I'm a data analyst with a strong foundation in life sciences and a growing passion for data-driven business decision-making. I recently completed the Data Analytics Career Accelerator at LSE, working on real-world projects using Python, SQL, R, Tableau, and Excel.
 
-**Tech:** SQL, Tableau [🧠 View Dashboard](https://public.tableau.com/app/profile/mateusz.lisiecki/viz/2Market_17421990875850/Dashboard1)
+With over a decade in scientific research and field trial design, I bring a unique perspective—analytical rigor combined with strategic thinking. I'm passionate about turning complex datasets into actionable insights that help drive smart decisions.
 
 ---
 
-### ❄️ Ice Sales for Gaea AI
-![Ice Sales](GAEA_AI.png){: width="600" }
+## 📊 Projects
 
-- Segmented customers via K-Means.
-- Predictive models with Random Forest & Decision Trees.
+### 📈 Enhancing NHS Budgeting Efficiency
 
-**Tech:** Python, Scikit-learn [📂 View Notebook](#)
+![NHS Project Chart](NHS.png)
+
+Analyzed NHS GP appointment data to uncover trends that impact budgeting and service delivery.
+
+- Identified high-demand regions and seasonal patterns
+- Explored correlations between booking delay and attendance
+- Compared appointment modes (in-person vs virtual)
+
+**Tech:** Python, Pandas, Seaborn, Matplotlib  
+[📂 View Notebook](https://github.com/MatLis-Purple/Projects/blob/main/NHS_Appoinments_Analysis.ipynb)
+
+---
+
+### 📉 Market Insights with SQL & Tableau
+
+![Market Insights Chart](2MArket.png)
+
+Exploratory analysis of market data using SQL and Tableau dashboards.
+
+- Analyzed transaction volumes by product/region
+- Built interactive Tableau dashboards
+- Efficient data wrangling using SQL
+
+**Tech:** SQL, Tableau  
+[🧠 View Dashboard](https://public.tableau.com/app/profile/mateusz.lisiecki/viz/2Market_17421990875850/Dashboard1) |  
+[📄 View SQL Script](https://github.com/MatLis-Purple/Projects/blob/main/2Market_Exploratory_Analysis.sql)
+
+---
+
+### ❄️ Ice Sales Analysis for Gaea AI
+
+![Gaea AI Project Chart](GAEA_AI.png)
+
+Team project analyzing ice sales near Madrid with predictive modeling and segmentation.
+
+- Identified demand patterns from heatwaves, holidays
+- Performed K-Means segmentation
+- Built Decision Trees & Random Forest models
+
+**Tech:** Python, Scikit-learn, Matplotlib  
+[📂 View Notebook](https://github.com/MatLis-Purple/Projects/blob/main/Gaea_AI_Analysis_CLEAN.ipynb)
+
+---
 
 ## 🛠️ Skills
+
 - **Languages:** Python, SQL, R
-- **Tools:** Excel, Tableau, PowerPoint
-- **Techniques:** Regression, Clustering, Predictive Modeling
-
-## 🎓 Education
-- **LSE – Data Analytics Career Accelerator (2024–2025)** – Distinction
-- **MSc & BSc – Horticultural Science**, SGGW Warsaw
-
-## 📬 Contact
-Email me: [lisiecki.mateusz@gmail.com](mailto:lisiecki.mateusz@gmail.com)
+- **Tools:** Excel (Advanced), Tableau, PowerPoint, Jupyter
+- **Techniques:** Regression, clustering, predictive modeling
+- **Soft Skills:** Team collaboration, international experience, analytical thinking
 
 ---
 
-Thanks for stopping by! 🚀
+## 🎓 Education
+
+- **Data Analytics Career Accelerator** – LSE (2024–2025) | _Distinction_
+- **MSc & BSc in Horticultural Science** – Warsaw University of Life Sciences (SGGW)
+
+---
+
+## 📬 Contact
+
+Email: [lisiecki.mateusz@gmail.com](mailto:lisiecki.mateusz@gmail.com)
+
+Let’s connect and build something meaningful with data!
+
+---
+
+© 2025 Mateusz Lisiecki | Built with ❤️ and GitHub Pages
