@@ -1,10 +1,6 @@
 ---
 layout: default
 title: Mateusz Lisiecki
----
-
-# 👋 Hi, I'm Mateusz Lisiecki
-
 Data Analyst | Life Sciences Background | Data-Driven Storyteller
 
 ![Mateusz Lisiecki](My_picture.png)
