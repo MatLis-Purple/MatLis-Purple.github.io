@@ -1,9 +1,13 @@
 ---
 layout: default
 title: Mateusz Lisiecki
-Data Analyst | Life Sciences Background | Data-Driven Storyteller
+---
 
-![Mateusz Lisiecki](My_picture.png)
+<img src="My_picture.png" alt="Mateusz Lisiecki" width="160" style="border-radius: 50%; display: block; margin: 0 auto; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
+
+# 👋 Hi, I'm Mateusz Lisiecki
+
+Data Analyst | Life Sciences Background | Data-Driven Storyteller
 
 ---
 
@@ -23,8 +27,8 @@ With over a decade in scientific research and field trial design, I bring a uniq
 
 Analyzed NHS GP appointment data to uncover trends that impact budgeting and service delivery.
 
-- Identified high-demand regions and seasonal patterns
-- Explored correlations between booking delay and attendance
+- Identified high-demand regions and seasonal patterns  
+- Explored correlations between booking delay and attendance  
 - Compared appointment modes (in-person vs virtual)
 
 **Tech:** Python, Pandas, Seaborn, Matplotlib  
@@ -38,12 +42,12 @@ Analyzed NHS GP appointment data to uncover trends that impact budgeting and ser
 
 Exploratory analysis of market data using SQL and Tableau dashboards.
 
-- Analyzed transaction volumes by product/region
-- Built interactive Tableau dashboards
+- Analyzed transaction volumes by product/region  
+- Built interactive Tableau dashboards  
 - Efficient data wrangling using SQL
 
 **Tech:** SQL, Tableau  
-[🧠 View Dashboard](https://public.tableau.com/app/profile/mateusz.lisiecki/viz/2Market_17421990875850/Dashboard1) |  
+[🧠 View Dashboard](https://public.tableau.com/app/profile/mateusz.lisiecki/viz/2Market_17421990875850/Dashboard1)  
 [📄 View SQL Script](https://github.com/MatLis-Purple/Projects/blob/main/2Market_Exploratory_Analysis.sql)
 
 ---
@@ -54,8 +58,8 @@ Exploratory analysis of market data using SQL and Tableau dashboards.
 
 Team project analyzing ice sales near Madrid with predictive modeling and segmentation.
 
-- Identified demand patterns from heatwaves, holidays
-- Performed K-Means segmentation
+- Identified demand patterns from heatwaves, holidays  
+- Performed K-Means segmentation  
 - Built Decision Trees & Random Forest models
 
 **Tech:** Python, Scikit-learn, Matplotlib  
@@ -65,24 +69,23 @@ Team project analyzing ice sales near Madrid with predictive modeling and segmen
 
 ## 🛠️ Skills
 
-- **Languages:** Python, SQL, R
-- **Tools:** Excel (Advanced), Tableau, PowerPoint, Jupyter
-- **Techniques:** Regression, clustering, predictive modeling
+- **Languages:** Python, SQL, R  
+- **Tools:** Excel (Advanced), Tableau, PowerPoint, Jupyter  
+- **Techniques:** Regression, clustering, predictive modeling  
 - **Soft Skills:** Team collaboration, international experience, analytical thinking
 
 ---
 
 ## 🎓 Education
 
-- **Data Analytics Career Accelerator** – LSE (2024–2025) | _Distinction_
+- **Data Analytics Career Accelerator** – LSE (2024–2025) | _Distinction_  
 - **MSc & BSc in Horticultural Science** – Warsaw University of Life Sciences (SGGW)
 
 ---
 
 ## 📬 Contact
 
-Email: [lisiecki.mateusz@gmail.com](mailto:lisiecki.mateusz@gmail.com)
-
+Email: [lisiecki.mateusz@gmail.com](mailto:lisiecki.mateusz@gmail.com)  
 Let’s connect and build something meaningful with data!
 
 ---
