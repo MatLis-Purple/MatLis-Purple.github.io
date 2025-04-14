@@ -1,4 +1,1 @@
-title: "Mateusz Lisiecki Portfolio" # This will show on the website as your page title.
-description: "Data Analyst with a passion for data-driven decision-making." # Site description.
-url: "https://mateusz-lisiecki.github.io" # Make sure this matches your new GitHub Pages URL.
-theme: minimal-mistakes # Your chosen theme.
+theme: jekyll-theme-cayman
