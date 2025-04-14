@@ -4,13 +4,23 @@ title: Mateusz Lisiecki – Data Analyst Portfolio
 permalink: /
 ---
 
-<img src="/My_picture.png" alt="Mateusz Lisiecki" width="150" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2); margin-bottom: 1rem;">
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 2rem;">
 
-## 📚 About Me
+  <img src="My_picture.png" alt="Mateusz Lisiecki" style="width: 180px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 
-I'm a data analyst with a strong foundation in life sciences and a growing passion for data-driven business decision-making. I recently completed the Data Analytics Career Accelerator at LSE, working on real-world projects using Python, SQL, R, Tableau, and Excel.
+  <div style="flex: 1; min-width: 260px;">
+    <h2>📚 About Me</h2>
+    <p>
+      I'm a data analyst with a strong foundation in life sciences and a growing passion for data-driven business decision-making.
+      I recently completed the Data Analytics Career Accelerator at LSE, working on real-world projects using Python, SQL, R, Tableau, and Excel.
+    </p>
+    <p>
+      With over a decade in scientific research and field trial design, I bring a unique perspective—analytical rigor combined with strategic thinking.
+      I'm passionate about turning complex datasets into actionable insights that help drive smart decisions.
+    </p>
+  </div>
 
-With over a decade in scientific research and field trial design, I bring a unique perspective—analytical rigor combined with strategic thinking. I'm passionate about turning complex datasets into actionable insights that help drive smart decisions.
+</div>
 
 ---
 
@@ -80,7 +90,7 @@ Team project analyzing ice sales near Madrid with predictive modeling and segmen
 
 ## 📬 Contact
 
-Email: [lisiecki.mateusz@gmail.com](mailto:lisiecki.mateusz@gmail.com)  
+**Email:** [lisiecki.mateusz@gmail.com](mailto:lisiecki.mateusz@gmail.com)  
 Let’s connect and build something meaningful with data!
 
 ---
@@ -88,4 +98,3 @@ Let’s connect and build something meaningful with data!
 <div style="text-align: center; font-size: 0.9rem; color: #cde;">
   © 2025 Mateusz Lisiecki | Built with ❤️ and GitHub Pages
 </div>
-
