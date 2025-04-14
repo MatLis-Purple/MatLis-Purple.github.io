@@ -26,3 +26,39 @@
   margin: 0;
   color: #d9f6f6;
 }
+
+/* Ensure a background color for the page */
+body {
+  background: linear-gradient(to right, #007bff, #00bfff);
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+/* Extra styling for page sections */
+h2 {
+  font-size: 1.8rem;
+  color: #333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+a:hover {
+  color: #00bfff;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #777;
+  margin-top: 2rem;
+}
