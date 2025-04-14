@@ -3,58 +3,46 @@ layout: default
 title: Mateusz Lisiecki
 ---
 
+<!-- Custom banner INSIDE Cayman header -->
 <style>
-/* Hide the default site title */
-header h1, header h2 {
-  display: none;
+.page-header {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
 }
 
-/* Add spacing below banner so content doesn't overlap */
-body {
-  padding-top: 280px;
-}
-
-/* Custom banner */
-.custom-banner {
-  position: absolute;
-  top: 1.5rem;
-  left: 0;
-  width: 100%;
+.page-header .custom-hero {
   text-align: center;
-  color: #fff;
-  z-index: 10;
 }
 
-.custom-banner img {
+.custom-hero img {
   width: 120px;
   border-radius: 50%;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
   margin-bottom: 1rem;
 }
 
-.custom-banner h1 {
-  margin: 0.2rem 0;
+.custom-hero h1 {
   font-size: 2rem;
   font-weight: bold;
+  margin: 0.2rem 0;
+  color: white;
 }
 
-.custom-banner p {
+.custom-hero p {
   font-size: 1.15rem;
-  margin: 0;
   color: #e0f0ff;
+  margin: 0;
   font-weight: 500;
 }
 </style>
 
-<div class="custom-banner">
+<div class="custom-hero">
   <img src="My_picture.png" alt="Mateusz Lisiecki" />
   <h1>Mateusz Lisiecki</h1>
   <p>Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
 </div>
 
-
 ---
-
 
 
 ## 📚 About Me
