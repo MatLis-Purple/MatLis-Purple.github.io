@@ -3,11 +3,12 @@ layout: default
 title: Mateusz Lisiecki
 ---
 
-<!-- Custom Banner with Profile Picture and Title -->
-<div class="custom-banner">
-  <img src="My_picture.png" alt="Mateusz Lisiecki" />
-  <h1>Mateusz Lisiecki</h1>
-  <p>Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
+<div class="hero-container">
+  <div class="hero-content">
+    <img src="My_picture.png" alt="Mateusz Lisiecki" class="hero-image" />
+    <h1>Mateusz Lisiecki</h1>
+    <p>Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
+  </div>
 </div>
 
 ---
