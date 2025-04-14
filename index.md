@@ -1,20 +1,3 @@
----
-layout: default
-title: Mateusz Lisiecki
----
-
-<style>
-/* Additional inline styles can be added here if necessary */
-</style>
-
-<div class="custom-banner">
-  <img src="My_picture.png" alt="Mateusz Lisiecki" />
-  <h1>Mateusz Lisiecki</h1>
-  <p>Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
-</div>
-
----
-
 ## 📚 About Me
 
 I'm a data analyst with a strong foundation in life sciences and a growing passion for data-driven business decision-making. I recently completed the Data Analytics Career Accelerator at LSE, working on real-world projects using Python, SQL, R, Tableau, and Excel.
