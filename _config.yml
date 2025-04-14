@@ -1,0 +1,22 @@
+# _config.yml
+title: Mateusz Lisiecki
+description: "Data Analyst Portfolio"
+url: "https://matlis-purple.github.io"
+baseurl: ""  # Leave empty for root URL
+theme: jekyll-theme-cayman
+
+# Markdown settings
+markdown: kramdown
+
+# Permalink settings (Optional)
+permalink: pretty
+
+# Exclude unnecessary files (Optional)
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile.lock
+
+# Adding custom styles
+include:
+  - style.css
