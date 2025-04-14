@@ -1,4 +1,3 @@
-# _config.yml
 title: Mateusz Lisiecki
 description: "Data Analyst Portfolio"
 url: "https://matlis-purple.github.io"
@@ -19,4 +18,4 @@ exclude:
 
 # Adding custom styles
 include:
-  - style.css
+  - assets/css/style.css
