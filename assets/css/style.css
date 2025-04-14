@@ -1,19 +1,11 @@
 /* Custom styles for your portfolio */
-
-/* Set background color of the page */
-body {
-  background-color: #f4f4f4; /* light gray background */
-  font-family: Arial, sans-serif; /* change font family */
-  color: #333; /* text color */
-}
-
-/* Customize the header with your name */
 .custom-banner {
-  background-color: #007bff; /* blue background */
-  padding: 50px 0;
+  position: absolute;
+  top: 1.5rem;
+  left: 0;
+  width: 100%;
   text-align: center;
-  color: #fff; /* white text */
-  position: relative;
+  color: #fff;
   z-index: 10;
 }
 
@@ -26,47 +18,11 @@ body {
 
 .custom-banner h1 {
   margin: 0.2rem 0;
-  font-size: 3rem; /* bigger title */
-  font-weight: bold;
+  font-size: 2rem;
 }
 
 .custom-banner p {
-  font-size: 1.3rem; /* larger text */
+  font-size: 1.1rem;
   margin: 0;
-  color: #d9f6f6; /* light cyan color for the subtitle */
-}
-
-/* Style for the About Me section */
-#about-me {
-  padding: 40px 0;
-  background-color: #fff; /* white background */
-  text-align: center;
-  font-size: 1.2rem;
-}
-
-/* Style for project section headers */
-h3 {
-  font-size: 1.8rem;
-  color: #333;
-  margin-top: 20px;
-}
-
-/* Add some padding to each section */
-section {
-  padding: 40px 10%;
-}
-
-/* Style the footer */
-footer {
-  background-color: #333; /* dark background */
-  color: #fff; /* white text */
-  padding: 20px;
-  text-align: center;
-  font-size: 0.8rem;
-}
-
-/* Add custom hover effects for links */
-a:hover {
-  text-decoration: underline;
-  color: #007bff; /* blue color on hover */
+  color: #d9f6f6;
 }
