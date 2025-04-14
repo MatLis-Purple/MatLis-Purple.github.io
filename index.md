@@ -83,7 +83,7 @@ Team project analyzing ice sales near Madrid with predictive modeling and segmen
 
 ## 🎓 Education
 
-- **Data Analytics Career Accelerator** – LSE (2024–2025) | _Distinction_  
+- **Data Analytics Career Accelerator** – LSE (2024–2025) **(Distinction)**
 - **MSc & BSc in Horticultural Science** – Warsaw University of Life Sciences (SGGW)
 
 ---
