@@ -16,6 +16,6 @@ exclude:
   - LICENSE
   - Gemfile.lock
 
-# Adding custom styles
+# Including custom styles
 include:
   - assets/css/style.css
