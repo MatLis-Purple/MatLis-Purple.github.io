@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Mateusz Lisiecki – Data Analyst
-permalink: /
 ---
 
 <div style="display: flex; align-items: center; gap: 2rem; flex-wrap: nowrap; margin-bottom: 2rem;">
