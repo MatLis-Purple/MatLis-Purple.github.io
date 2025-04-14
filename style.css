@@ -1,54 +1,39 @@
-/* Custom styles for the header/banner */
-.custom-banner {
-  background-color: #007b7f; /* Adjust to your desired background color */
-  text-align: center;
-  padding: 40px;
-  color: white;
+/* Style the hero section */
+.hero-container {
   position: relative;
-  z-index: 1;
+  background-color: #005e61; /* Blugreen background */
+  color: white;
+  height: 300px; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
-.custom-banner img {
+.hero-content {
+  position: relative;
+  z-index: 10;
+}
+
+.hero-image {
   width: 120px;
   border-radius: 50%;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
   margin-bottom: 1rem;
 }
 
-.custom-banner h1 {
-  font-size: 2rem;
-  margin: 0.5rem 0;
+.hero-content h1 {
+  font-size: 2.5rem;
+  margin: 0.5rem;
 }
 
-.custom-banner p {
-  font-size: 1.1rem;
+.hero-content p {
+  font-size: 1.2rem;
   color: #d9f6f6;
   margin: 0;
 }
 
-/* About Me Section */
-.about-section {
-  padding: 20px;
-}
-
-/* Project Section */
-.project-section {
-  padding: 20px;
-}
-
-.project-section img {
-  max-width: 100%;
-  height: auto;
-  margin-bottom: 15px;
-}
-
-/* Skills Section */
-.skills-section {
-  padding: 20px;
-}
-
-/* Contact Section */
-.contact-section {
-  text-align: center;
-  margin-top: 40px;
+/* Make sure the page content has enough spacing */
+body {
+  margin-top: 350px; /* Adjust based on how much space you want below the hero section */
 }
