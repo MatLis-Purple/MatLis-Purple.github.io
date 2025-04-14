@@ -3,39 +3,34 @@ layout: default
 title: Mateusz Lisiecki
 ---
 
-<!-- Custom banner INSIDE Cayman header -->
 <style>
+/* Customize the existing Cayman theme banner */
 .page-header {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
-}
-
-.page-header .custom-hero {
+  padding: 3rem 1rem 2rem;
   text-align: center;
 }
 
-.custom-hero img {
+.page-header .custom-hero img {
   width: 120px;
   border-radius: 50%;
   box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
   margin-bottom: 1rem;
 }
 
-.custom-hero h1 {
-  font-size: 2rem;
-  font-weight: bold;
+.page-header .custom-hero h1 {
   margin: 0.2rem 0;
+  font-size: 2rem;
   color: white;
 }
 
-.custom-hero p {
-  font-size: 1.15rem;
+.page-header .custom-hero p {
+  font-size: 1.1rem;
   color: #e0f0ff;
   margin: 0;
-  font-weight: 500;
 }
 </style>
 
+<!-- Inject content INTO the Cayman theme banner -->
 <div class="custom-hero">
   <img src="My_picture.png" alt="Mateusz Lisiecki" />
   <h1>Mateusz Lisiecki</h1>
@@ -43,7 +38,6 @@ title: Mateusz Lisiecki
 </div>
 
 ---
-
 
 ## 📚 About Me
 
