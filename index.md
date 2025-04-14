@@ -98,3 +98,8 @@ Let’s connect and build something meaningful with data!
 <div style="text-align: center; font-size: 0.9rem; color: #cde;">
   © 2025 Mateusz Lisiecki | Built with ❤️ and GitHub Pages
 </div>
+
+<!-- View on GitHub link updated to Portfolio repository -->
+<p style="text-align: center; margin-top: 2rem;">
+  <a href="https://github.com/MatLis-Purple/Portfolio" target="_blank">View on GitHub</a>
+</p>
