@@ -1,4 +1,4 @@
-title: "Mateusz Lisiecki Portfolio"
-description: "Data Analyst with a passion for data-driven decision-making."
-url: "https://matlis-purple.github.io" # Keep this as your GitHub Pages URL (if it's still 'matlis-purple')
-theme: minimal-mistakes
+title: "Mateusz Lisiecki Portfolio" # This will show on the website as your page title.
+description: "Data Analyst with a passion for data-driven decision-making." # Site description.
+url: "https://mateusz-lisiecki.github.io" # Make sure this matches your new GitHub Pages URL.
+theme: minimal-mistakes # Your chosen theme.
