@@ -47,6 +47,8 @@ header h1, header h2 {
 
 ---
 
+
+
 ## 📚 About Me
 
 I'm a data analyst with a strong foundation in life sciences and a growing passion for data-driven business decision-making. I recently completed the Data Analytics Career Accelerator at LSE, working on real-world projects using Python, SQL, R, Tableau, and Excel.
