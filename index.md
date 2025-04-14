@@ -3,11 +3,12 @@ layout: default
 title: Mateusz Lisiecki
 ---
 
-<img src="My_picture.png" alt="Mateusz Lisiecki" width="160" style="border-radius: 50%; display: block; margin: 0 auto; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
-
-# 👋 Hi, I'm Mateusz Lisiecki
-
-Data Analyst | Life Sciences Background | Data-Driven Storyteller
+<!-- HEADER SECTION -->
+<div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
+  <img src="My_picture.png" alt="Mateusz Lisiecki" width="160" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);">
+  <h1 style="margin-top: 1rem; margin-bottom: 0.5rem; font-size: 2.25rem; color: #fff;">Mateusz Lisiecki</h1>
+  <p style="font-size: 1.2rem; color: #d9f6f6;">Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
+</div>
 
 ---
 
@@ -90,4 +91,6 @@ Let’s connect and build something meaningful with data!
 
 ---
 
-© 2025 Mateusz Lisiecki | Built with ❤️ and GitHub Pages
+<div style="text-align: center; font-size: 0.9rem; color: #cde;">
+  © 2025 Mateusz Lisiecki | Built with ❤️ and GitHub Pages
+</div>
