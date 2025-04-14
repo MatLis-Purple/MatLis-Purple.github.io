@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Mateusz Lisiecki – Data Analyst Portfolio
+permalink: /
 ---
 
 
