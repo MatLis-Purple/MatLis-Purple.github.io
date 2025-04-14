@@ -1,0 +1,19 @@
+url: "https://matlis-purple.github.io"
+baseurl: ""  # Leave empty for root URL
+theme: jekyll-theme-cayman
+
+# Markdown settings
+markdown: kramdown
+
+# Permalink settings (Optional)
+permalink: pretty
+
+# Exclude unnecessary files (Optional)
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile.lock
+
+# Including custom styles
+include:
+  - assets/css/style.css
