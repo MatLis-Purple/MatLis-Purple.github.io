@@ -3,11 +3,46 @@ layout: default
 title: Mateusz Lisiecki
 ---
 
-<!-- HEADER SECTION -->
-<div style="text-align: center; margin-top: 2rem; margin-bottom: 2rem;">
-  <img src="My_picture.png" alt="Mateusz Lisiecki" width="160" style="border-radius: 50%; box-shadow: 0 0 12px rgba(0, 0, 0, 0.2);">
-  <h1 style="margin-top: 1rem; margin-bottom: 0.5rem; font-size: 2.25rem; color: #fff;">Mateusz Lisiecki</h1>
-  <p style="font-size: 1.2rem; color: #d9f6f6;">Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
+<style>
+/* Hide the default site title */
+header h1, header h2 {
+  display: none;
+}
+
+/* Style your custom header content */
+.custom-banner {
+  position: absolute;
+  top: 1.5rem;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  z-index: 10;
+}
+
+.custom-banner img {
+  width: 120px;
+  border-radius: 50%;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.3);
+  margin-bottom: 1rem;
+}
+
+.custom-banner h1 {
+  margin: 0.2rem 0;
+  font-size: 2rem;
+}
+
+.custom-banner p {
+  font-size: 1.1rem;
+  margin: 0;
+  color: #d9f6f6;
+}
+</style>
+
+<div class="custom-banner">
+  <img src="My_picture.png" alt="Mateusz Lisiecki" />
+  <h1>Mateusz Lisiecki</h1>
+  <p>Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
 </div>
 
 ---
