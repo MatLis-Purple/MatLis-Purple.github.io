@@ -2,9 +2,10 @@
 layout: default
 title: Mateusz Lisiecki – Data Analyst Portfolio
 permalink: /
----
+![picture](My_picture.png)
 
-<img src="/My_picture.png" alt="Mateusz Lisiecki" width="150" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.2); margin-bottom: 1rem;">
+
+---
 
 
 ## 📚 About Me
