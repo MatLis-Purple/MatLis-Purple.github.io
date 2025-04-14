@@ -1,11 +1,4 @@
 title: Mateusz Lisiecki
 description: "Data Analyst Portfolio"
-url: "https://matlis-purple.github.io"
-baseurl: ""  # Leave empty for root URL
-theme: jekyll-theme-cayman  # Default theme
-
-# Logo settings
-logo: /My_picture.png  # Use the image you uploaded
-
-# Markdown settings
-markdown: kramdown
+logo: /My_picture.png
+theme: jekyll-theme-cayman
