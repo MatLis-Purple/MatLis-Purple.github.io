@@ -4,9 +4,9 @@ title: Mateusz Lisiecki – Data Analyst Portfolio
 permalink: /
 ---
 
-<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 2rem;">
+<div style="display: flex; align-items: center; gap: 2rem; flex-wrap: nowrap; margin-bottom: 2rem;">
 
-  <img src="My_picture.png" alt="Mateusz Lisiecki" style="width: 180px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+  <img src="My_picture.png" alt="Mateusz Lisiecki" style="width: 180px; height: 180px; border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 
   <div style="flex: 1; min-width: 260px;">
     <h2>📚 About Me</h2>
