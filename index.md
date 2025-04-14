@@ -9,7 +9,12 @@ header h1, header h2 {
   display: none;
 }
 
-/* Style your custom header content */
+/* Add spacing below banner so content doesn't overlap */
+body {
+  padding-top: 280px;
+}
+
+/* Custom banner */
 .custom-banner {
   position: absolute;
   top: 1.5rem;
@@ -30,12 +35,14 @@ header h1, header h2 {
 .custom-banner h1 {
   margin: 0.2rem 0;
   font-size: 2rem;
+  font-weight: bold;
 }
 
 .custom-banner p {
-  font-size: 1.1rem;
+  font-size: 1.15rem;
   margin: 0;
-  color: #d9f6f6;
+  color: #e0f0ff;
+  font-weight: 500;
 }
 </style>
 
@@ -44,8 +51,6 @@ header h1, header h2 {
   <h1>Mateusz Lisiecki</h1>
   <p>Data Analyst | Life Sciences Background | Data-Driven Storyteller</p>
 </div>
-
-
 
 
 ---
