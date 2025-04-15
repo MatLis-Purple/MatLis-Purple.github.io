@@ -27,8 +27,8 @@ title: Mateusz Lisiecki – Data Analyst
 
 ### 📈 Enhancing NHS Budgeting Efficiency
 
-<div style="width: 280px;">
-  ![NHS Project Chart](/images/NHS.jpg)
+<div style="width: 280px; margin-bottom: 1rem;">
+  <img src="/images/NHS.jpg" alt="NHS Project Chart" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 Analyzed NHS GP appointment data to uncover trends that impact budgeting and service delivery.
@@ -44,7 +44,9 @@ Analyzed NHS GP appointment data to uncover trends that impact budgeting and ser
 
 ### 📉 Market Insights with SQL & Tableau
 
-![Market Insights Chart](/images/2MArket.jpg)
+<div style="width: 280px; margin-bottom: 1rem;">
+  <img src="/images/2MArket.jpg" alt="Market Insights Chart" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+</div>
 
 Exploratory analysis of market data using SQL and Tableau dashboards.
 
@@ -59,8 +61,9 @@ Exploratory analysis of market data using SQL and Tableau dashboards.
 ---
 
 ### ❄️ Ice Sales Analysis for Gaea AI
-<div style="max-width: 600px;">
-  ![NHS Project Chart](/images/NHS.jpg)
+
+<div style="width: 280px; margin-bottom: 1rem;">
+  <img src="/images/GAEA.jpg" alt="Gaea AI Project Chart" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 Team project analyzing ice sales near Madrid with predictive modeling and segmentation.
