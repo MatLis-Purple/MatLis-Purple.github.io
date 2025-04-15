@@ -57,8 +57,9 @@ Exploratory analysis of market data using SQL and Tableau dashboards.
 ---
 
 ### ❄️ Ice Sales Analysis for Gaea AI
-
-![Gaea AI Project Chart](/images/GAEA.jpg)
+<div style="max-width: 600px;">
+  ![NHS Project Chart](/images/NHS.jpg)
+</div>
 
 Team project analyzing ice sales near Madrid with predictive modeling and segmentation.
 
