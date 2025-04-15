@@ -27,7 +27,9 @@ title: Mateusz Lisiecki – Data Analyst
 
 ### 📈 Enhancing NHS Budgeting Efficiency
 
-![NHS Project Chart](/images/NHS.jpg)
+<div style="width: 280px;">
+  ![NHS Project Chart](/images/NHS.jpg)
+</div>
 
 Analyzed NHS GP appointment data to uncover trends that impact budgeting and service delivery.
 
