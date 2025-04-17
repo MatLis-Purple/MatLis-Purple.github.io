@@ -124,9 +124,3 @@ Let’s connect and build something meaningful with data!
     View on GitHub
   </a>
 </p>
-
----
-
-<div style="text-align: center; font-size: 0.9rem; color: #cde;">
-  © 2025 Mateusz Lisiecki | Built with ❤️ and GitHub Pages
-</div>
