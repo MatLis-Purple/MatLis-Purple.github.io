@@ -65,7 +65,7 @@ Exploratory analysis of market data using SQL and Tableau dashboards.
 ## Ice Sales Analysis for Gaea AI
 
 <div style="width: 280px; margin-bottom: 1rem;">
-  <img src="/images/GAEA.jpg" alt="Gaea AI Project Chart" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img src="/images/GAEA.jpeg" alt="Gaea AI Project Chart" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
 Team project analyzing ice sales near Madrid with predictive modeling and segmentation.
