@@ -25,9 +25,9 @@ title: Mateusz Lisiecki – Data Analyst
 
 ## 📊 Projects
 
---
+----
 
-### Enhancing NHS Budgeting Efficiency
+## Enhancing NHS Budgeting Efficiency
 
 <div style="width: 280px; margin-bottom: 1rem;">
   <img src="/images/NHS.jpg" alt="NHS Project Chart" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
